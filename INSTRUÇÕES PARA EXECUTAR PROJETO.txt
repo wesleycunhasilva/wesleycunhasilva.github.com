@@ -1,0 +1,8 @@
+Pré-Requisitos
+	- Instalar o Node.js pelo link https://nodejs.org/en/download
+
+Como rodar a aplicação
+	1. Abra um terminal e navegue até o repositório
+	2. Para rodar o projeto, execute os comandos:
+	   	- npm install
+	   	- npm run dev
